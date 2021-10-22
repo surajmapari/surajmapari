@@ -29,6 +29,8 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/surajmapari/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/surajmapari/profile" height="30" width="40" /></a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="surajmapari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/surajmapari?trk=profile-badge">Suraj Mapari</a></div>
+              
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <h3 align="left">Languages and Tools:</h3>
